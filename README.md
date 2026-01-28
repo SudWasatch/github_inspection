@@ -11,7 +11,7 @@ $ adb devices // get the device name and replace with <emulator-name>
 $ flutter run -d <emulator-name>
 
 Instructions :-
-set the location's latitude and longitude on this page 
+set the location's latitude and longitude on this page login_screen.dart
  "Data": [
       {
         "inspectionID": "IND 1",
